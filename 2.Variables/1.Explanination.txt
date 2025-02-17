@@ -1,0 +1,28 @@
+Variable names in C Language are the names given to locations in memory. 
+These locations can be an integer, characters, or real constants. 
+In addition, a variable type can only hold the same constant type. In this lesson, we will learn how to work with Variables in C Programming.
+
+Rules for Variable naming
+
+1.The first character in a variable name must be an underscore or alphabet
+2.A variable name is a combination of alphabets 1 to 31, digits, or underscores.
+3.No comma is allowed in a variable name.
+4.In addition, no blank space is valid.
+Always try to create meaningful names. For example, the variable names for calculating the results of students can be given variable name results.
+
+Variable Declaration
+Declaration of a variable in C language is quite easy. The following is the syntax showing how to declare variables in C programming,
+
+datatype varlist;
+ 
+The valid variable declaration examples are shown below. Here, int, char, and float are datatypes,
+
+int result;
+int marks_one, marks_two;
+ 
+char s = ‘P’;
+char name;
+ 
+float points;
+ 
+The preceding examples show how a variable is declared, wherein a datatype precedes the variable name.
