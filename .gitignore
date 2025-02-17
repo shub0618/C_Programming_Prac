@@ -1,19 +1,2 @@
 # Ignore executable files
 *.exe
-
-# Ignore build and temporary files
-*.obj
-*.o
-*.dll
-*.log
-*.tmp
-*.bak
-
-# Ignore system files
-.DS_Store
-Thumbs.db
-
-# Ignore dependency directories
-node_modules/
-venv/
-__pycache__/
